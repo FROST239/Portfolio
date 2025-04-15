@@ -216,9 +216,9 @@ img {
 
 .home-img {
     position: absolute;
-    right: 0;
+    right: 5%;
     bottom: 0;
-    width: 250px;
+    width: 350px;
 }
 
 /*ABOUT*/
@@ -479,7 +479,7 @@ img {
     }
 
     .home-img {
-        width: 524px;
+        width: 600px;
         right: 10%;
     }
 
